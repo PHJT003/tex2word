@@ -1,6 +1,6 @@
 # tex2word
 Convert your LaTeX document into Word with R and RStudio, via pandoc!
-In order for the script to work, please make sure to install Pandoc on your machine.
+In order for the script to work, please make sure to install pandoc on your machine - https://pandoc.org/.
 
 The script was created and tested on Windows 10 OS and converts scientific manuscripts
 (paper, thesis, etc.) from .tex to .docx.
@@ -14,7 +14,7 @@ For instance, I know that RMarkdown uses pandoc under the hood to produce its do
 to use that... Maybe there is a way the user can take advantage of the built-in functions and avoid
 installing pandoc.
 
-I hope this script helps.
+I hope this helps.
 
 Best,
 
