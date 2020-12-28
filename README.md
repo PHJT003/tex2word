@@ -14,8 +14,3 @@ The script is simple and far from being perfect. Feel free to fork this repo and
 For instance, I know that RMarkdown uses pandoc under the hood to produce its documents, but I was not able
 to use that... Maybe there is a way the user can take advantage of the built-in functions and avoid
 installing pandoc.
-
-I hope this helps.
-
-Best,
-Valerio
