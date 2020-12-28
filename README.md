@@ -1,5 +1,5 @@
 # tex2word
-Convert your  <img src = "https://latex.codecogs.com/gif.latex?%5CLaTeX" > document into Word with R and RStudio, via pandoc!
+Convert your LaTeX document into Word with R and RStudio, via pandoc!
 
 **In order for the script to work, please make sure to install [pandoc](https://pandoc.org/) on your machine.**
 
